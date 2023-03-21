@@ -6,7 +6,7 @@ import { Button } from "components";
 
 export const Hero = () => {
   return (
-    <section className='relative rounded-[12px] border border-[#EAECF0] bg-[#fff] flex flex-col items-start p-[12px] md:pb-[0px] md:px-[24px] md:pt-[24px]  shadow-heroShadow mt-[24px] md:mt-[48px] gap-y-[6px] md:gap-y-[12px]'>
+    <section className='relative rounded-[12px] border border-[#EAECF0] bg-[#fff] flex flex-col items-start p-[12px] md:pb-[0px] md:px-[24px] md:pt-[24px]  shadow-heroShadow mt-[24px] md:mt-[48px] mb-[12px] md:mb-[24px] gap-y-[6px] md:gap-y-[12px]'>
       <div>
         <img src={gradient} alt="background" className="rounded-[16px] h-[80px] md:h-[100%]"/>
       </div>

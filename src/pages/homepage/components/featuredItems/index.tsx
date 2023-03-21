@@ -17,7 +17,7 @@ export const FeaturedItems= ({data}: {data: Array<ItemsTypes>}) => {
 
   return (
     <section className="rounded-[12px] shadow-heroShadow border border-[#EAECF0] p-[24px] bg-[#fff]">
-      <div className="flex justify-between items-center pb-[24px] border borer-[#EAECF0] mb-[24px]">
+      <div className="flex justify-between items-center pb-[24px] border-b borer-[#EAECF0] mb-[24px]">
          <h2 className="text-[#101828] font-semibold text-[1.12rem]"> Featured Items </h2>
          <Button type="button" className="rounded-[8px] shadow-inviteShadow border border-[#D0D5DD] bg-[#fff] text-[#344054] text-[0.87rem] font-semibold py-[8px] px-[14px]">
             View Auction
