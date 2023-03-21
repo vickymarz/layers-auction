@@ -26,15 +26,11 @@
 
 # 📖 Layers Auction<a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 This is a website designed specifically for people who are interested in buying products that are displayed as auction. The website enables you to add product to your wish-list and also submit your bid for the product.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -56,8 +52,6 @@ This is a website designed specifically for people who are interested in buying 
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - Featured Products UI
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -66,8 +60,6 @@ This is a website designed specifically for people who are interested in buying 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Demo Link](http://pipsgod.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -75,8 +67,6 @@ This is a website designed specifically for people who are interested in buying 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -135,8 +125,6 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Okoroji Victor**
 
 - GitHub: [@githubhandle](https://github.com/vickymarz)
@@ -148,8 +136,6 @@ You can deploy this project using:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] Add to cart (Wish list)
 - [ ] Action Lists
@@ -171,8 +157,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -180,8 +164,6 @@ If you like this project...
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Rayda for given me the opportunity to showcase my skills in this assessment test
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
