@@ -1,12 +1,11 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Homepage } from './pages';
+import { Routes, Route} from 'react-router-dom'
 
 function App() {
   return (
-    <div>
-        Welcome
-    </div>
+    <Routes>
+        <Route path="/" element={<Homepage />} />
+    </Routes>
   );
 }
 
