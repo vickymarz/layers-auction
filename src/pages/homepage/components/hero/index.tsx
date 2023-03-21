@@ -20,7 +20,7 @@ export const Hero = () => {
             <p className="flex justify-start items-center gap-x-[10px] ">
               <div className="rounded-[16px] mix-blend-multiply flex gap-x-[7px] bg-[#FFFAEB] py-[4px] px-[12px] justify-center items-center">
                 <img src={dot} alt="" className="w-[6px] h-[6px]"/>
-                <span className=" text-[#B54708] font-medium text-[0.75rem] md:text-[0.87rem]">Not Live</span>
+                <span className="text-[#B54708] font-medium text-[0.75rem] md:text-[0.87rem]">Not Live</span>
               </div>
               <span className="text-[#475467] text-[0.75rem] md:text-[1rem]">Layers Auction</span>
             </p>

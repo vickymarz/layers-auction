@@ -11,7 +11,7 @@ type ItemsTypes = {
 export const FeaturedItem = ({name, title, bid, image}: ItemsTypes) => {
   return (
     <div className='rounded-[12px] border border-[#D0D5DD] border-solid p-[12px] flex flex-col justify-start items-start gap-y-[20px] mb-4 lg:mb-0'>
-      <div className='rounded-[12px] bg-[#F2F4F7] flex justify-center items-center w-[269.5px] h-[132px]'>
+      <div className='rounded-[12px] bg-[#F2F4F7] flex justify-center items-center w-full h-[132px]'>
         <img src={image} alt="Desert king" className='object-contain'/>
       </div>
       <div className='w-full flex flex-col justify-start items-start gap-y-[12px] border-b border-[#EAECF0] pb-[8px]'>
