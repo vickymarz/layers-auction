@@ -38,6 +38,7 @@ This is a website designed specifically for people who are interested in buying 
     <li><a href="https://reactjs.org/">React.js</a></li>
     <li><a href="https://reactjs.org/">Typescript</a></li>
     <li><a href="https://reactjs.org/">TailwindCSS</a></li>
+     <li><a href="https://reactjs.org/">React Query</a></li>
   </ul>
 </details>
 
