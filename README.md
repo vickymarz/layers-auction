@@ -61,7 +61,7 @@ This is a website designed specifically for people who are interested in buying 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](http://pipsgod.netlify.app/)
+- [Live Demo Link](https://layersauction.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
