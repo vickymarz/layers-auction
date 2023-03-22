@@ -4,8 +4,6 @@
   "private": true,
   "dependencies": {
     "@babel/core": "^7.21.3",
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "@types/babel__core": "^7.20.0",
     "@types/node": "^16.18.18",
@@ -49,6 +47,8 @@
     "@babel/preset-env": "^7.20.2",
     "@babel/preset-typescript": "^7.21.0",
     "@jest/globals": "^29.5.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^14.0.0",
     "@types/jest": "^29.5.0",
     "babel-plugin-module-resolver": "^5.0.0",
     "jest": "^27.5.1",
