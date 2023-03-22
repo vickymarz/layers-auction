@@ -9,9 +9,9 @@ type ItemsTypes = {
 }
 
 type ItemsProps = {
-    data: Array<ItemsTypes>
-    isLoading: boolean
-    isError: boolean
+    data?: Array<ItemsTypes>
+    isLoading?: boolean
+    isError?: boolean
 }
 
 export const FeaturedItems= ({data, isLoading, isError}: ItemsProps) => {
