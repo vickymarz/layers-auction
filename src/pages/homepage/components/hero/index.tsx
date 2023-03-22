@@ -17,13 +17,13 @@ export const Hero = () => {
           </div>
           <div className="flex flex-col justify-start items-start gap-y-[5px] md:gap-y-[10px]">
             <h2 className="text-[#101828] font-semibold text-[0.75rem] md:text-[1.5rem]">Starts in: 3 days : 2 hours : 24 minutes </h2>
-            <p className="flex justify-start items-center gap-x-[10px] ">
+            <div className="flex justify-start items-center gap-x-[10px] ">
               <div className="rounded-[16px] mix-blend-multiply flex gap-x-[7px] bg-[#FFFAEB] py-[4px] px-[12px] justify-center items-center">
                 <img src={dot} alt="" className="w-[6px] h-[6px]"/>
                 <span className="text-[#B54708] font-medium text-[0.75rem] md:text-[0.87rem]">Not Live</span>
               </div>
               <span className="text-[#475467] text-[0.75rem] md:text-[1rem]">Layers Auction</span>
-            </p>
+            </div>
           </div>
         </div>
         <Button type="button" className="rounded-[8px] shadow-inviteShadow border border-[#D0D5DD] bg-[#fff] flex items-center gap-x-[2px] md:gap-x-[5px] py-[8px] px-[14px]">
