@@ -11,7 +11,7 @@ type ItemsTypes = {
 export const FeaturedItem = ({name, title, bid, image}: ItemsTypes) => {
   return (
     <div className='rounded-[12px] border border-[#D0D5DD] border-solid p-[12px] flex flex-col justify-start items-start gap-y-[20px] mb-4 lg:mb-0'>
-      <div className='rounded-[12px] bg-[#F2F4F7] flex justify-center items-center w-full h-[132px]'>
+      <div className='p-[20px] rounded-[12px] bg-[#F2F4F7] flex justify-center items-center w-full h-[132px]'>
         <img src={image} alt="Desert king" className='object-contain'/>
       </div>
       <div className='w-full flex flex-col justify-start items-start gap-y-[12px] border-b border-[#EAECF0] pb-[8px]'>
@@ -26,7 +26,7 @@ export const FeaturedItem = ({name, title, bid, image}: ItemsTypes) => {
           Current Bid:  {"   "}<span className='text-[#344054] font-bold'>{bid}</span>
         </p>
       </div>
-      <Button type="button" className='w-full text-[#fff] font-semibold text-[0.875rem] rounded-[8px] shadow-cardShadow px-[16px] py-[10px] bg-[#004ccc] text-center'>
+      <Button type="button" className='outline-0 focus:outline-0 w-full text-[#fff] font-semibold text-[0.875rem] rounded-[8px] shadow-cardShadow px-[16px] py-[10px] bg-[#004ccc] text-center'>
         Add to wishlist
       </Button>
     </div>
